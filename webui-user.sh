@@ -4,7 +4,7 @@
 #########################################################
 
 # Install directory without trailing slash
-install_dir="/home/sd"
+#install_dir="/home/sd"
 
 # Name of the subdirectory
 #clone_dir="stable-diffusion-webui"
